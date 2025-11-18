@@ -1,5 +1,3 @@
-> 点击跳转 [AI 分析部署专区](#-ai-智能分析部署) 使用 **AI 功能** 的最佳前提是已使用本项目至少推送一天(积累新闻数据)
-
 <div align="center" id="trendradar">
 
 <a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
@@ -10,10 +8,13 @@
 
 <a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
+<a href="https://share.302.ai/mEOUzG" target="_blank"><img src="_image/302ai.png" alt="302.AI logo" height="60"/></a>
+
 [![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v3.0.3-green.svg?style=flat-square)](https://github.com/sansan0/TrendRadar)
+[![Version](https://img.shields.io/badge/version-v3.0.5-blue.svg)](https://github.com/sansan0/TrendRadar)
+[![MCP](https://img.shields.io/badge/MCP-v1.0.2-green.svg)](https://github.com/sansan0/TrendRadar)
 
 [![企业微信通知](https://img.shields.io/badge/企业微信-通知-00D4AA?style=flat-square)](https://work.weixin.qq.com/)
 [![Telegram通知](https://img.shields.io/badge/Telegram-通知-00D4AA?style=flat-square)](https://telegram.org/)
@@ -25,21 +26,36 @@
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-自动化-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/sansan0/TrendRadar)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-部署-4285F4?style=flat-square&logo=github&logoColor=white)](https://sansan0.github.io/TrendRadar)
-[![Docker](https://img.shields.io/badge/Docker-部署-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/)
+[![Docker](https://img.shields.io/badge/Docker-部署-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/wantcat/trendradar)
 [![MCP Support](https://img.shields.io/badge/MCP-AI分析支持-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://modelcontextprotocol.io/)
 
 </div>
 
+<div align="center">
 
-> 本项目以轻量，易部署为目标。开源路上，感谢有你~😉
+**中文** | **[English](README-EN.md)**
 
-- 感谢**耐心反馈 bug** 的贡献者,你们的每一条反馈让项目更加完善;  
-- 感谢**为项目点 star** 的观众们,你们的每一个 star 都是对开源精神最好的支持;  
-- 感谢**关注[公众号](#问题答疑与1元点赞)并积极互动** 的读者们,你们的**留言**、**点赞**、**分享**和**推荐**让内容更有温度;  
-- 感谢**给予资金支持** 的朋友们,你们的慷慨已化身为键盘旁的零食饮料,陪伴着项目的每一次迭代。
+</div>
+
+> 本项目以轻量，易部署为目标
+
+## 📑 快速导航
+
+<div align="center">
+
+| [🎯 核心功能](#-核心功能) | [🚀 快速开始](#-快速开始) | [🐳 Docker部署](#-docker-部署) | [🤖 AI分析专区](#-ai-智能分析部署) |
+|:---:|:---:|:---:|:---:|
+| [📝 更新日志](#-更新日志) | [🔌 MCP客户端](#-mcp-客户端) | [❓ 答疑与公益](#问题答疑与公益捐助) | [⭐ 项目相关](#项目相关) |
+| [🔧 自定义监控平台](#自定义监控平台) | [📝 推送关键词配置](#frequencywordstxt-配置教程) | [🪄 赞助商](#-赞助商) | |
+
+</div>
+
+- 感谢**耐心反馈 bug** 的贡献者，你们的每一条反馈让项目更加完善😉;  
+- 感谢**为项目点 star** 的观众们，**fork** 你所欲也，**star** 我所欲也，两者得兼😍是对开源精神最好的支持;  
+- 感谢**关注[公众号](#问题答疑与公益捐助)** 的读者们，你们的留言、点赞、分享和推荐等积极互动让内容更有温度😎。  
 
 <details>
-<summary>👉 点击查看<strong>致谢名单</strong> (当前 <strong>🔥41🔥</strong> 位)</summary>
+<summary>👉 点击查看<strong>致谢名单</strong> (当前 <strong>🔥71🔥</strong> 位)</summary>
 
 ### 数据支持
 
@@ -55,10 +71,40 @@
 
 ### 观众支持
 
-> 感谢以下热心观众的信任与支持
+> 感谢**给予资金支持** 的朋友们,你们的慷慨已化身为键盘旁的零食饮料,陪伴着项目的每一次迭代
 
 |           点赞人            |  金额  |  日期  |             备注             |
 | :-------------------------: | :----: | :----: | :-----------------------: |
+|           *鬼          |  1 | 2025.11.17  |    | 
+|           *超          |  10 | 2025.11.17  |    | 
+|           R*w          |  10 | 2025.11.17  | 这 agent 做的牛逼啊,兄弟    | 
+|           J*o          |  1 | 2025.11.17  | 感谢开源,祝大佬事业有成    | 
+|           *晨          |  8.88  | 2025.11.16  | 项目不错,研究学习中    | 
+|           *海          |  1  | 2025.11.15  |    | 
+|           *德          |  1.99  | 2025.11.15  |    | 
+|           *疏          |  8.8  | 2025.11.14  |  感谢开源，项目很棒，支持一下   | 
+|           M*e          |  10  | 2025.11.14  |  开源不易，大佬辛苦了   | 
+|           **柯          |  1  | 2025.11.14  |     | 
+|           *云          |  88  | 2025.11.13  |    好项目，感谢开源  | 
+|           *W          |  6  | 2025.11.13  |      | 
+|           *凯          |  1  | 2025.11.13  |      | 
+|           对*.          |  1  | 2025.11.13  |    Thanks for your TrendRadar  | 
+|           s*y          |  1  | 2025.11.13  |      | 
+|           **翔          |  10  | 2025.11.13  |   好项目，相见恨晚，感谢开源！     | 
+|           *韦          |  9.9  | 2025.11.13  |   TrendRadar超赞，请老师喝咖啡~     | 
+|           h*p          |  5  | 2025.11.12  |   支持中国开源力量，加油！     | 
+|           c*r          |  6  | 2025.11.12  |        | 
+|           a*n          |  5  | 2025.11.12  |        | 
+|           。*c          |  1  | 2025.11.12  |    感谢开源分享    | 
+|           *记          |  1  | 2025.11.11  |        | 
+|           *主          |  1  | 2025.11.10  |        | 
+|           *了          |  10  | 2025.11.09  |        | 
+|           *杰          |  5  | 2025.11.08  |        | 
+|           *点          |  8.80  | 2025.11.07  |   开发不易，支持一下。     | 
+|           Q*Q          |  6.66  | 2025.11.07  |   感谢开源！     | 
+|           C*e          |  1  | 2025.11.05  |        | 
+|           Peter Fan          |  20  | 2025.10.29  |        | 
+|           M*n          |  1  | 2025.10.27  |      感谢开源  | 
 |           *许          |  8.88  | 2025.10.23  |      老师 小白一枚，摸了几天了还没整起来，求教  | 
 |           Eason           |  1  | 2025.10.22  |      还没整明白，但你在做好事  | 
 |           P*n           |  1  | 2025.10.20  |          |
@@ -120,8 +166,8 @@
 
 默认监控 11 个主流平台，也可自行增加额外的平台
 
-<details>
-<summary><strong>👉 自定义监控平台</strong></summary>
+<details id="自定义监控平台">
+<summary><strong>👉 点击展开：自定义监控平台</strong></summary>
 <br>
 
 本项目的资讯数据来源于 [newsnow](https://github.com/ourongxing/newsnow) ，你可以点击[网站](https://newsnow.busiyi.world/)，点击[更多]，查看是否有你想要的平台。 
@@ -176,8 +222,8 @@ platforms:
 
 > 也可以不做筛选，完整的推送所有热点，具体见【历史更新】中的 v2.0.1
 
-<details>
-<summary><strong>👉 frequency_words.txt 配置教程</strong></summary>
+<details id="frequencywordstxt-配置教程">
+<summary><strong>👉 点击展开：frequency_words.txt 配置教程</strong></summary>
 <br>
 
 在 `frequency_words.txt` 文件中配置监控的关键词，支持三种语法和词组功能。
@@ -348,7 +394,7 @@ OPPO
 > 不再错过重要新闻的完整发展过程，从话题萌芽到高峰热议，全程掌握
 
 <details>
-<summary><strong>👉 推送格式说明</strong></summary>
+<summary><strong>👉 点击展开：推送格式说明</strong></summary>
 <br>
 
 📊 热点词汇统计
@@ -415,7 +461,7 @@ OPPO
 > 把分散在各个平台的热搜合并起来，按照你关心的热度重新排序，这三个比例可以选择适合自己的场景进行调整
 
 <details>
-<summary><strong>👉 热点权重调整</strong></summary>
+<summary><strong>👉 点击展开：热点权重调整</strong></summary>
 <br>
 
 当前默认的配置是平衡性配置
@@ -471,7 +517,11 @@ weight:
   - 跨平台数据对比（活跃度统计、关键词共现）
   - 智能摘要生成、相似新闻查找、历史关联检索
 
-> 告别手动翻阅数据文件，AI 助手帮你秒懂新闻背后的故事
+> **💡 使用提示**：AI 功能需要本地新闻数据支持
+> - 项目自带 **11月1-15日** 测试数据，可立即体验
+> - 建议自行部署运行项目，获取更实时的数据
+>
+> 详见 [AI 智能分析部署](#-ai-智能分析部署)
 
 ### **零技术门槛部署**
 
@@ -505,6 +555,35 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 - **大版本升级**：从 v1.x 升级到 v2.y, 建议删除现有 fork 后重新 fork，这样更省力且避免配置冲突
 
 
+### 2025/11/12 - v3.0.5
+
+- 修复邮件发送 SSL/TLS 端口配置逻辑错误
+- 优化邮箱服务商（QQ/163/126）默认使用 465 端口（SSL）
+- **新增 Docker 环境变量支持**：核心配置项（`enable_crawler`、`report_mode`、`push_window` 等）支持通过环境变量覆盖，解决 NAS 用户修改配置文件不生效的问题（详见 [🐳 Docker 部署](#-docker-部署) 章节）
+
+
+
+### 2025/11/18 - mcp-v1.0.2
+
+  **MCP 模块更新:**
+  - 优化查询今日新闻却可能错误返回过去日期的情况
+
+
+<details>
+<summary><strong>👉 点击展开：历史更新</strong></summary>
+
+### 2025/10/26 - mcp-v1.0.1
+
+  **MCP 模块更新:**
+  - 修复日期查询参数传递错误
+  - 统一所有工具的时间参数格式
+
+
+### 2025/10/31 - v3.0.4
+
+- 解决飞书因推送内容过长而产生的错误，实现了分批推送
+
+
 ### 2025/10/23 - v3.0.3
 
 - 扩大 ntfy 错误信息显示范围
@@ -534,9 +613,6 @@ GitHub 一键 Fork 即可使用，无需编程基础。
   - 这是独立的 AI 分析功能，不影响现有的推送功能
   - 可选择性使用，无需升级现有部署
 
-
-<details>
-<summary><strong>👉 历史更新</strong></summary>
 
 ### 2025/10/15 - v2.4.4
 
@@ -765,7 +841,9 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
 </details>
 
 
-## 🚀 使用方式
+## 🚀 快速开始
+
+> 配置完成后，新闻数据一小时后才会更新，如想加快，可参照【第4步】手动测试配置效果
 
 1. **Fork 本项目**到你的 GitHub 账户
 
@@ -773,17 +851,35 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
 
 2. **设置 GitHub Secrets（选择你需要的平台）**:
 
-   在你 Fork 后的仓库中，进入 `Settings` > `Secrets and variables` > `Actions` > `New repository secret`，然后根据需要配置以下任一或多个通知平台：
+   在你 Fork 后的仓库中，进入 `Settings` > `Secrets and variables` > `Actions` > `New repository secret`
 
-   可以同时配置多个平台，系统会向所有配置的平台发送通知。
+   **📌 重要说明（请务必仔细阅读）：**
 
-   <details>
-   <summary> <strong>👉 企业微信机器人</strong>（配置最简单最迅速）</summary>
+   - ✅ **一个 Name 对应一个 Secret**：每添加一个配置项，点击一次"New repository secret"按钮，填写一对"Name"和"Secret"
+   - ✅ **保存后看不到值是正常的**：出于安全考虑，保存后重新编辑时，只能看到 Name（名称），看不到 Secret（值）的内容
+   - ⚠️ **严禁自创名称**：Secret 的 Name（名称）必须**严格使用**下方列出的名称（如 `WEWORK_WEBHOOK_URL`、`FEISHU_WEBHOOK_URL` 等），不能自己随意修改或创造新名称，否则系统无法识别
+   - 💡 **可以同时配置多个平台**：系统会向所有配置的平台发送通知
+
+   **配置示例：**
+
+   <img src="_image/secrets.png" alt="GitHub Secrets 配置示例"/>
+
+   如上图所示，每一行是一个配置项：
+   - **Name（名称）**：必须使用下方展开内容中列出的固定名称（如 `WEWORK_WEBHOOK_URL`）
+   - **Secret（值）**：填写你从对应平台获取的实际内容（如 Webhook 地址、Token 等）
+
    <br>
 
-   **GitHub Secret 配置：**
-   - 名称：`WEWORK_WEBHOOK_URL`
-   - 值：你的企业微信机器人 Webhook 地址
+
+   <details>
+   <summary> <strong>👉 点击展开：企业微信机器人</strong>（配置最简单最迅速）</summary>
+   <br>
+
+   **GitHub Secret 配置（⚠️ Name 名称必须严格一致）：**
+   - **Name（名称）**：`WEWORK_WEBHOOK_URL`（请复制粘贴此名称，不要手打，避免打错）
+   - **Secret（值）**：你的企业微信机器人 Webhook 地址
+
+   <br>
 
    **机器人设置步骤：**
 
@@ -797,19 +893,21 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
    </details>
 
    <details>
-   <summary> <strong>👉 飞书机器人</strong>（消息显示最友好）</summary>
+   <summary> <strong>👉 点击展开：飞书机器人</strong>（消息显示最友好）</summary>
    <br>
 
-   **GitHub Secret 配置：**
-   - 名称：`FEISHU_WEBHOOK_URL`
-   - 值：你的飞书机器人 Webhook 地址
+   **GitHub Secret 配置（⚠️ Name 名称必须严格一致）：**
+   - **Name（名称）**：`FEISHU_WEBHOOK_URL`（请复制粘贴此名称，不要手打）
+   - **Secret（值）**：你的飞书机器人 Webhook 地址（该链接开头类似 https://www.feishu.cn/flow/api/trigger-webhook/********）
    <br>
 
-   有两个方案，**方案一**配置简单，**方案二**配置复杂(老方法)
+   有两个方案，**方案一**配置简单，**方案二**配置复杂(但是稳定推送)
 
-   其中方案一，由 **ziventian**发现并提供建议，在这里感谢他，默认是个人推送，也可以配置群组推送操作[#97](https://github.com/sansan0/TrendRadar/issues/97) 
+   其中方案一，由 **ziventian**发现并提供建议，在这里感谢他，默认是个人推送，也可以配置群组推送操作[#97](https://github.com/sansan0/TrendRadar/issues/97) ，
 
    **方案一：**
+
+   > 对部分人存在额外操作，否则会报"系统错误"。需要手机端搜索下机器人，然后开启飞书机器人应用(该建议来自于网友，可参考)
 
    1. 电脑浏览器打开 https://botbuilder.feishu.cn/home/my-command
 
@@ -884,12 +982,14 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
    </details>
 
    <details>
-   <summary> <strong>👉 钉钉机器人</strong></summary>
+   <summary> <strong>👉 点击展开：钉钉机器人</strong></summary>
    <br>
 
-   **GitHub Secret 配置：**
-   - 名称：`DINGTALK_WEBHOOK_URL`
-   - 值：你的钉钉机器人 Webhook 地址
+   **GitHub Secret 配置（⚠️ Name 名称必须严格一致）：**
+   - **Name（名称）**：`DINGTALK_WEBHOOK_URL`（请复制粘贴此名称，不要手打）
+   - **Secret（值）**：你的钉钉机器人 Webhook 地址
+
+   <br>
 
    **机器人设置步骤：**
 
@@ -912,12 +1012,19 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
    </details>
 
    <details>
-   <summary> <strong>👉 Telegram Bot</strong></summary>
+   <summary> <strong>👉 点击展开：Telegram Bot</strong></summary>
    <br>
 
-   **GitHub Secret 配置：**
-   - 名称：`TELEGRAM_BOT_TOKEN` - 你的 Telegram Bot Token
-   - 名称：`TELEGRAM_CHAT_ID` - 你的 Telegram Chat ID
+   **GitHub Secret 配置（⚠️ Name 名称必须严格一致）：**
+   - **Name（名称）**：`TELEGRAM_BOT_TOKEN`（请复制粘贴此名称，不要手打）
+   - **Secret（值）**：你的 Telegram Bot Token
+
+   - **Name（名称）**：`TELEGRAM_CHAT_ID`（请复制粘贴此名称，不要手打）
+   - **Secret（值）**：你的 Telegram Chat ID
+
+   **说明**：Telegram 需要配置**两个** Secret，请分别点击两次"New repository secret"按钮添加
+
+   <br>
 
    **机器人设置步骤：**
 
@@ -944,18 +1051,53 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
    </details>
 
    <details>
-   <summary> <strong>👉 邮件推送</strong>（支持所有主流邮箱）</summary>
+   <summary> <strong>👉 点击展开：邮件推送</strong>（支持所有主流邮箱）</summary>
    <br>
 
-   - 注意事项：为防止邮件群发功能被**滥用**，当前的群发是所有收件人都能看到彼此的邮箱地址，适合熟人间交流资讯。
-   - 仅供参考：请根据实际情况调整，邮箱方面并没有一一验证，是按照 SMTP 的标准配置的 
+   - 注意事项：为防止邮件群发功能被**滥用**，当前的群发是所有收件人都能看到彼此的邮箱地址。
+   - 如果你没有过配置下面这种邮箱发送的经历，不建议尝试 
 
-   **GitHub Secret 配置：**
-   - 名称：`EMAIL_FROM` - 发件人邮箱地址
-   - 名称：`EMAIL_PASSWORD` - 邮箱密码或授权码
-   - 名称：`EMAIL_TO` - 收件人邮箱地址（多个收件人用英文逗号分隔）
-   - 名称：`EMAIL_SMTP_SERVER` - SMTP服务器地址（可选，留空则自动识别）
-   - 名称：`EMAIL_SMTP_PORT` - SMTP端口（可选，留空则自动识别）
+   <br>
+
+   **GitHub Secret 配置（⚠️ Name 名称必须严格一致）：**
+   - **Name（名称）**：`EMAIL_FROM`（请复制粘贴此名称，不要手打）
+   - **Secret（值）**：发件人邮箱地址
+
+   - **Name（名称）**：`EMAIL_PASSWORD`（请复制粘贴此名称，不要手打）
+   - **Secret（值）**：邮箱密码或授权码
+
+   - **Name（名称）**：`EMAIL_TO`（请复制粘贴此名称，不要手打）
+   - **Secret（值）**：收件人邮箱地址（多个收件人用英文逗号分隔，也可以和 EMAIL_FROM 一样，自己发送给自己）
+
+   - **Name（名称）**：`EMAIL_SMTP_SERVER`（可选配置，请复制粘贴此名称）
+   - **Secret（值）**：SMTP服务器地址（可留空，系统会自动识别）
+
+   - **Name（名称）**：`EMAIL_SMTP_PORT`（可选配置，请复制粘贴此名称）
+   - **Secret（值）**：SMTP端口（可留空，系统会自动识别）
+
+   **说明**：邮件推送需要配置至少**3个必需** Secret（EMAIL_FROM、EMAIL_PASSWORD、EMAIL_TO），后两个为可选配置
+
+   <br>
+
+   **支持的邮箱服务商**（自动识别 SMTP 配置）：
+
+   | 邮箱服务商 | 域名 | SMTP 服务器 | 端口 | 加密方式 |
+   |-----------|------|------------|------|---------|
+   | **Gmail** | gmail.com | smtp.gmail.com | 587 | TLS |
+   | **QQ邮箱** | qq.com | smtp.qq.com | 465 | SSL |
+   | **Outlook** | outlook.com | smtp-mail.outlook.com | 587 | TLS |
+   | **Hotmail** | hotmail.com | smtp-mail.outlook.com | 587 | TLS |
+   | **Live** | live.com | smtp-mail.outlook.com | 587 | TLS |
+   | **163邮箱** | 163.com | smtp.163.com | 465 | SSL |
+   | **126邮箱** | 126.com | smtp.126.com | 465 | SSL |
+   | **新浪邮箱** | sina.com | smtp.sina.com | 465 | SSL |
+   | **搜狐邮箱** | sohu.com | smtp.sohu.com | 465 | SSL |
+
+   > **自动识别**：使用以上邮箱时，无需手动配置 `EMAIL_SMTP_SERVER` 和 `EMAIL_SMTP_PORT`，系统会自动识别。
+   >
+   > **反馈说明**：
+   > - 如果你使用**其他邮箱**测试成功，欢迎开 [Issues](https://github.com/sansan0/TrendRadar/issues) 告知，我会添加到支持列表
+   > - 如果上述邮箱配置有误或无法使用，也请开 [Issues](https://github.com/sansan0/TrendRadar/issues) 反馈，帮助改进项目
 
    **常见邮箱设置：**
 
@@ -975,19 +1117,21 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
    2. 开启 SMTP 服务
    3. 设置客户端授权码
    4. `EMAIL_PASSWORD` 填写授权码
+   <br>
 
    **高级配置**：
    如果自动识别失败，可手动配置 SMTP：
    - `EMAIL_SMTP_SERVER`：如 smtp.gmail.com
    - `EMAIL_SMTP_PORT`：如 587（TLS）或 465（SSL）
+   <br>
 
-   **多收件人设置**：
+   **如果有多个收件人(注意是英文逗号分隔)**：
    - EMAIL_TO="user1@example.com,user2@example.com,user3@example.com"
 
    </details>
 
    <details>
-   <summary> <strong>👉 ntfy 推送</strong>（开源免费，支持自托管）</summary>
+   <summary> <strong>👉 点击展开：ntfy 推送</strong>（开源免费，支持自托管）</summary>
    <br>
 
    **两种使用方式：**
@@ -1017,10 +1161,17 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
       ❌ 坏例子：news、alerts（太容易被猜到）
       ```
 
-   3. **配置 GitHub Secret**：
-      - `NTFY_TOPIC`：填写你刚才订阅的主题名称
-      - `NTFY_SERVER_URL`：留空（默认使用 ntfy.sh）
-      - `NTFY_TOKEN`：留空
+   3. **配置 GitHub Secret（⚠️ Name 名称必须严格一致）**：
+      - **Name（名称）**：`NTFY_TOPIC`（请复制粘贴此名称，不要手打）
+      - **Secret（值）**：填写你刚才订阅的主题名称
+
+      - **Name（名称）**：`NTFY_SERVER_URL`（可选配置，请复制粘贴此名称）
+      - **Secret（值）**：留空（默认使用 ntfy.sh）
+
+      - **Name（名称）**：`NTFY_TOKEN`（可选配置，请复制粘贴此名称）
+      - **Secret（值）**：留空
+
+      **说明**：ntfy 至少需要配置 1 个必需 Secret (NTFY_TOPIC)，后两个为可选配置
 
    4. **测试**：
       ```bash
@@ -1098,18 +1249,31 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
 
    </details>
 
+   > **💡 新手快速上手建议**：
+   >
+   > 第一次部署时，建议先完成 **GitHub Secrets** 配置（选择一个推送平台即可），然后直接跳到【第4步】测试推送是否成功。
+   >
+   > **暂时不要修改** `config/config.yaml` 和 `frequency_words.txt`，等推送测试成功后再根据需要调整这些配置。
+
 
 3. **配置说明：**:
 
     - **推送设置**：在 [config/config.yaml](config/config.yaml) 中配置推送模式和通知选项
     - **关键词设置**：在 [config/frequency_words.txt](config/frequency_words.txt) 中添加你关心的关键词
+    - **推送频率调整**：在 [.github/workflows/crawler.yml](.github/workflows/crawler.yml) 请谨慎调整，别贪心
 
     **注意**：建议只调整文档中明确说明的配置项，其他选项主要供作者开发时测试使用
     
+4. **手动测试新闻推送**：
+
+    我这里是拿我的项目举例，你要去你**fork**的项目做测试
+
+    1. **进入 Actions**：https://github.com/sansan0/TrendRadar/actions
+    2. 找到 "Hot News Crawler" 的点进去，如果看不到该字样，那么参照[#109](https://github.com/sansan0/TrendRadar/issues/109)解决
+    3. 点击 "Run workflow" 按钮运行，等待 1 分钟左右数据到你手机上
 
 
-<details>
-<summary><strong>👉 Docker 部署</strong></summary>
+## 🐳 Docker 部署
 
 #### 方式一：快速体验（一行命令）
 
@@ -1184,6 +1348,28 @@ docker run -d --name trend-radar \
    - `config/config.yaml` - 应用主配置（报告模式、推送设置等）
    - `config/frequency_words.txt` - 关键词配置（设置你关心的热点词汇）
    - `.env` - 环境变量配置（webhook URLs 和定时任务）
+
+   **⚙️ 环境变量覆盖机制（v3.0.5+）**
+
+   如果你在 NAS 或其他 Docker 环境中遇到**修改 `config.yaml` 后配置不生效**的问题，可以通过环境变量直接覆盖配置：
+
+   | 环境变量 | 对应配置 | 示例值 | 说明 |
+   |---------|---------|-------|------|
+   | `ENABLE_CRAWLER` | `crawler.enable_crawler` | `true` / `false` | 是否启用爬虫 |
+   | `ENABLE_NOTIFICATION` | `notification.enable_notification` | `true` / `false` | 是否启用通知 |
+   | `REPORT_MODE` | `report.mode` | `daily` / `incremental` / `current`| 报告模式 |
+   | `PUSH_WINDOW_ENABLED` | `notification.push_window.enabled` | `true` / `false` | 推送时间窗口开关 |
+   | `PUSH_WINDOW_START` | `notification.push_window.time_range.start` | `08:00` | 推送开始时间 |
+   | `PUSH_WINDOW_END` | `notification.push_window.time_range.end` | `22:00` | 推送结束时间 |
+   | `FEISHU_WEBHOOK_URL` | `notification.webhooks.feishu_url` | `https://...` | 飞书 Webhook |
+
+   **配置优先级**：环境变量 > config.yaml
+
+   **使用方法**：
+   - 修改 `.env` 文件，取消注释并填写需要的配置
+   - 或在 NAS/群晖 Docker 管理界面的"环境变量"中直接添加
+   - 重启容器后生效：`docker-compose restart`
+
 
 3. **启动服务**:
    ```bash
@@ -1287,52 +1473,509 @@ docker exec -it trend-radar /bin/bash
 docker exec -it trend-radar ls -la /app/config/
 ```
 
-</details>
-
 
 ## 🤖 AI 智能分析部署
 
-TrendRadar v3.0.0 新增了基于 **MCP (Model Context Protocol)** 的 AI 分析功能，让你可以通过自然语言与新闻数据对话，进行深度分析。部署的话在 5 分钟左右。最复杂的部分我都用一键双击操作替你们解决好了。
+TrendRadar v3.0.0 新增了基于 **MCP (Model Context Protocol)** 的 AI 分析功能，让你可以通过自然语言与新闻数据对话，进行深度分析。
 
-> 我发现大家都很善于靠自己解决未知的问题，这种勇气是值得鼓励和赞许的，但如果你卡住了好久，也可以在 issues 或者在公众号底部留言提问，这样我既能帮你，也能帮到更多其他探索中的小伙伴。
+
+### ⚠️ 使用前必读
+
+
+**重要提示：AI 功能需要本地新闻数据支持**
+
+AI 分析功能**不是**直接查询网络实时数据，而是分析你**本地已积累的新闻数据**（存储在 `output` 文件夹中）
+
+
+#### 使用说明：
+
+1. **项目自带测试数据**：`output` 目录默认包含 **2025年11月1日～11月15日** 的新闻数据，可用于快速体验 AI 功能
+
+2. **查询限制**：
+   - ✅ 只能查询已有日期范围内的数据（11月1-15日）
+   - ❌ 无法查询实时新闻或未来日期
+
+3. **获取最新数据**：
+   - 测试数据仅供快速体验，**建议自行部署项目**获取实时数据
+   - 按照 [快速开始](#-快速开始) 部署运行项目
+   - 等待至少 1 天积累新闻数据后，即可查询最新热点
+
+---
 
 ### 1. 快速部署
 
-Cherry Studio 提供 GUI 配置界面，可快速部署。
+Cherry Studio 提供 GUI 配置界面， 5 分钟快速部署， 复杂的部分是一键安装的。
 
-**详细教程**：[README-Cherry-Studio.md](README-Cherry-Studio.md)
+**图文部署教程**：现已更新到我的[公众号](#问题答疑与公益捐助)，回复 "mcp" 即可
 
+**详细部署教程**：[README-Cherry-Studio.md](README-Cherry-Studio.md)
 
 ### 2. 学习与 AI 对话的姿势
 
-**基础查询**：
+**详细对话教程**：[README-MCP-FAQ.md](README-MCP-FAQ.md)
+
+**提问效果**：
+
+> 实际不建议一次性问多个问题。如果你选择的 ai 模型连下图的按顺序调用都无法做到，建议换一个。
+
+<img src="/_image/ai3.png" alt="mcp 使用效果图" width="600">
+
+
+## 🔌 MCP 客户端
+
+TrendRadar MCP 服务支持标准的 Model Context Protocol (MCP) 协议，可以接入各种支持 MCP 的 AI 客户端进行智能分析。
+
+### 支持的客户端
+
+**注意事项**：
+- 将 `/path/to/TrendRadar` 替换为你的项目实际路径
+- Windows 路径使用双反斜杠：`C:\\Users\\YourName\\TrendRadar`
+- 保存后记得重启
+
+<details>
+<summary><b>👉 点击展开：Claude Desktop</b></summary>
+
+#### 配置文件方式
+
+编辑 Claude Desktop 的 MCP 配置文件：
+
+**Windows**：
+`%APPDATA%\Claude\claude_desktop_config.json`
+
+**Mac**：
+`~/Library/Application Support/Claude/claude_desktop_config.json`
+
+**配置内容**：
+```json
+{
+  "mcpServers": {
+    "trendradar": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/path/to/TrendRadar",
+        "run",
+        "python",
+        "-m",
+        "mcp_server.server"
+      ],
+      "env": {},
+      "disabled": false,
+      "alwaysAllow": []
+    }
+  }
+}
 ```
-"给我看看最新的新闻"
-"查询昨天知乎的热点"
-"我关注的词今天出现了多少次"
+
+</details>
+
+<details>
+<summary><b>👉 点击展开：Cursor</b></summary>
+
+#### 方式一：HTTP 模式
+
+1. **启动 HTTP 服务**：
+   ```bash
+   # Windows
+   start-http.bat
+   
+   # Mac/Linux
+   ./start-http.sh
+   ```
+
+2. **配置 Cursor**：
+
+   **项目级配置**（推荐）：
+   在项目根目录创建 `.cursor/mcp.json`：
+   ```json
+   {
+     "mcpServers": {
+       "trendradar": {
+         "url": "http://localhost:3333/mcp",
+         "description": "TrendRadar 新闻热点聚合分析"
+       }
+     }
+   }
+   ```
+
+   **全局配置**：
+   在用户目录创建 `~/.cursor/mcp.json`（同样内容）
+
+3. **使用步骤**：
+   - 保存配置文件后重启 Cursor
+   - 在聊天界面的 "Available Tools" 中查看已连接的工具
+   - 开始使用：`搜索今天的"AI"相关新闻`
+
+#### 方式二：STDIO 模式（推荐）
+
+创建 `.cursor/mcp.json`：
+```json
+{
+  "mcpServers": {
+    "trendradar": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/path/to/TrendRadar",
+        "run",
+        "python",
+        "-m",
+        "mcp_server.server"
+      ]
+    }
+  }
+}
 ```
 
-**趋势分析**：
+</details>
+
+<details>
+<summary><b>👉 点击展开：VSCode (Cline/Continue)</b></summary>
+
+#### Cline 配置
+
+在 Cline 的 MCP 设置中添加：
+
+**HTTP 模式**：
+```json
+{
+  "trendradar": {
+    "url": "http://localhost:3333/mcp",
+    "type": "streamableHttp",
+    "autoApprove": [],
+    "disabled": false
+  }
+}
 ```
-"分析'比特币'最近一周的热度趋势"
-"看看'iPhone'话题是昙花一现还是持续热点"
+
+**STDIO 模式**（推荐）：
+```json
+{
+  "trendradar": {
+    "command": "uv",
+    "args": [
+      "--directory",
+      "/path/to/TrendRadar",
+      "run",
+      "python",
+      "-m",
+      "mcp_server.server"
+    ],
+    "type": "stdio",
+    "disabled": false
+  }
+}
 ```
 
-**详细教程**：[README-MCP-FAQ.md](README-MCP-FAQ.md)
+#### Continue 配置
 
-> 如果有部署问题，请带上截图反馈，后续我会根据反馈出个**图文教程**，争取编程零基础、文科生都能配置，届时会更新到我的公众号上
+编辑 `~/.continue/config.json`：
+```json
+{
+  "experimental": {
+    "modelContextProtocolServers": [
+      {
+        "transport": {
+          "type": "stdio",
+          "command": "uv",
+          "args": [
+            "--directory",
+            "/path/to/TrendRadar",
+            "run",
+            "python",
+            "-m",
+            "mcp_server.server"
+          ]
+        }
+      }
+    ]
+  }
+}
+```
 
-## ☕问题答疑与1元点赞
+**使用示例**：
+```
+分析最近7天"特斯拉"的热度变化趋势
+生成今天的热点摘要报告
+搜索"比特币"相关新闻并分析情感倾向
+```
 
-> 心意到就行，收到的**点赞**用于提高开发者开源的积极性。**点赞**已收录于**致谢名单**
+</details>
+
+<details>
+<summary><b>👉 点击展开：Claude Code CLI</b></summary>
+
+#### HTTP 模式配置
+
+```bash
+# 1. 启动 HTTP 服务
+# Windows: start-http.bat
+# Mac/Linux: ./start-http.sh
+
+# 2. 添加 MCP 服务器
+claude mcp add --transport http trendradar http://localhost:3333/mcp
+
+# 3. 验证连接（确保服务已启动）
+claude mcp list
+```
+
+#### 使用示例
+
+```bash
+# 查询新闻
+claude "搜索今天知乎的热点新闻，前10条"
+
+# 趋势分析
+claude "分析'人工智能'这个话题最近一周的热度趋势"
+
+# 数据对比
+claude "对比知乎和微博平台对'比特币'的关注度"
+```
+
+</details>
+
+<details>
+<summary><b>👉 点击展开：MCP Inspector</b>（调试工具）</summary>
+<br>
+
+MCP Inspector 是官方调试工具，用于测试 MCP 连接：
+
+#### 使用步骤
+
+1. **启动 TrendRadar HTTP 服务**：
+   ```bash
+   # Windows
+   start-http.bat
+   
+   # Mac/Linux
+   ./start-http.sh
+   ```
+
+2. **启动 MCP Inspector**：
+   ```bash
+   npx @modelcontextprotocol/inspector
+   ```
+
+3. **在浏览器中连接**：
+   - 访问：`http://localhost:3333/mcp`
+   - 测试 "Ping Server" 功能验证连接
+   - 检查 "List Tools" 是否返回 13 个工具：
+     - 基础查询：get_latest_news, get_news_by_date, get_trending_topics
+     - 智能检索：search_news, search_related_news_history
+     - 高级分析：analyze_topic_trend, analyze_data_insights, analyze_sentiment, find_similar_news, generate_summary_report
+     - 系统管理：get_current_config, get_system_status, trigger_crawl
+
+</details>
+
+<details>
+<summary><b>👉 点击展开：其他支持 MCP 的客户端</b></summary>
+<br>
+
+任何支持 Model Context Protocol 的客户端都可以连接 TrendRadar：
+
+#### HTTP 模式
+
+**服务地址**：`http://localhost:3333/mcp`
+
+**基本配置模板**：
+```json
+{
+  "name": "trendradar",
+  "url": "http://localhost:3333/mcp",
+  "type": "http",
+  "description": "新闻热点聚合分析"
+}
+```
+
+#### STDIO 模式（推荐）
+
+**基本配置模板**：
+```json
+{
+  "name": "trendradar",
+  "command": "uv",
+  "args": [
+    "--directory",
+    "/path/to/TrendRadar",
+    "run",
+    "python",
+    "-m",
+    "mcp_server.server"
+  ],
+  "type": "stdio"
+}
+```
+
+**注意事项**：
+- 替换 `/path/to/TrendRadar` 为实际项目路径
+- Windows 路径使用反斜杠转义：`C:\\Users\\...`
+- 确保已完成项目依赖安装（运行过 setup 脚本）
+
+</details>
+
+
+## ☕问题答疑与公益捐助
+
+> 如果你想支持本项目，可通过微信搜索**腾讯公益**，对里面的**助学计划**随心捐助~
+>  
+> 我还在为信息过载而焦虑，而他们却在信息荒漠中挣扎，他们比我更需要支持。 
+
+<details>
+<summary><b>👉 点击展开：作者有话说</b></summary>
+<br>
+
+感谢各位支持！因获得赞助商的赞助，现已移除我个人的**一元点赞**打赏码。
+
+之前参与**一元点赞**的朋友已收录至顶部**致谢名单**。
+
+本项目开发和维护投入了大量时间、精力和成本（含 AI 模型费用），有了赞助支持后可以更安心维护。
+</details>
 
 - **GitHub Issues**：适合针对性强的解答。提问时请提供完整信息（截图、错误日志、系统环境等）。
 - **公众号交流**：适合快速咨询。建议优先在相关文章下的公共留言区交流，如私信，请文明礼貌用语😉
 
 
-|公众号关注 |微信点赞 | 支付宝点赞 |
-|:---:|:---:|:---:| 
-| <img src="_image/weixin.png" width="300" title="硅基茶水间"/> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F2ae0a88d98079f7e876c2b4dc85233c6-9e8025.JPG" width="300" title="微信支付"/> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F1ed4f20ab8e35be51f8e84c94e6e239b4-fe4947.JPG" width="300" title="支付宝支付"/> |
+<div align="center">
+
+|公众号关注 |
+|:---:|
+| <img src="_image/weixin.png" width="400" title="硅基茶水间"/> |
+
+</div>
+
+## 🪄 赞助商
+
+> **302.AI** 是按用量付费的企业级 AI 资源平台      
+> 提供市场上最新、最全面的 **AI 模型**和 **API**，以及多种开箱即用的在线 AI 应用
+
+<div align="center">
+
+<a href="https://share.302.ai/mEOUzG" target="_blank">
+  <img src="_image/banner-302ai-zh.jpg" alt="302.AI" width="800"/>
+</a>
+</div>
+
+### 💰 302.AI 新用户福利
+
+> 领取的 1 美元可用于调用各种 AI 大模型（如 Claude、GPT 等）
+> 本项目 AI 分析功能需配置大模型使用，配置教程详见 [AI智能分析部署](#-ai-智能分析部署)
+
+[![注册领取](https://img.shields.io/badge/注册_302.AI-领取_1_美元免费测试额度-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://share.302.ai/mEOUzG)
+
+<details id="sponsor-tutorial">
+<summary><b>👉 点击展开： 302.AI 使用教程</b></summary>
+
+
+### 第 1 步：获取 API Key
+
+1. 注册后，进入右上角 [管理后台](https://302.ai/dashboard/overview)
+2. 点击左侧 [API Keys](https://302.ai/apis/list)
+3. 在页面下方找到默认 API KEY，**点击眼睛图标查看**，然后复制
+   （⚠️ 注意：不是点最右侧的复制按钮）
+
+
+### 第 2 步：在 Cherry Studio 中配置
+
+1. 打开 Cherry Studio，进入设置
+2. 模型提供商选择 **"302.AI"**
+3. 粘贴刚才复制的 API Key
+4. 点击**管理**，现在可以使用所有支持的 AI 模型了
+
+**提示：** Cherry Studio 已原生集成 302.AI，配置后即可看到完整模型列表。
+
+
+**Q: 1 美元免费额度能用多久？**    
+A: 取决于使用频率和模型选择，可以进行多次测试体验。
+
+**Q: 免费额度用完后怎么办？**    
+A: 可以按需充值，按量付费。目前大厂模型价格已相对亲民。
+
+</details>
+
+<br>
+
+---
+
+
+### 常见问题
+
+<details>
+<summary><b>👉 点击展开：Q1: HTTP 服务无法启动？</b></summary>
+<br>
+
+**检查步骤**：
+1. 确认端口 3333 未被占用：
+   ```bash
+   # Windows
+   netstat -ano | findstr :3333
+   
+   # Mac/Linux
+   lsof -i :3333
+   ```
+
+2. 检查项目依赖是否安装：
+   ```bash
+   # 重新运行安装脚本
+   # Windows: setup-windows.bat 或者 setup-windows-en.bat
+   # Mac/Linux: ./setup-mac.sh
+   ```
+
+3. 查看详细错误日志：
+   ```bash
+   uv run python -m mcp_server.server --transport http --port 3333
+   ```
+4. 尝试自定义端口:
+   ```bash
+   uv run python -m mcp_server.server --transport http --port 33333
+   ```
+
+</details>
+
+<details>
+<summary><b>👉 点击展开：Q2: 客户端无法连接到 MCP 服务？</b></summary>
+<br>
+
+**解决方案**：
+
+1. **STDIO 模式**：
+   - 确认 UV 路径正确（运行 `which uv` 或 `where uv`）
+   - 确认项目路径正确且无中文字符
+   - 查看客户端错误日志
+
+2. **HTTP 模式**：
+   - 确认服务已启动（访问 `http://localhost:3333/mcp`）
+   - 检查防火墙设置
+   - 尝试使用 127.0.0.1 替代 localhost
+
+3. **通用检查**：
+   - 重启客户端应用
+   - 查看 MCP 服务日志
+   - 使用 MCP Inspector 测试连接
+
+</details>
+
+<details>
+<summary><b>👉 点击展开：Q3: 工具调用失败或返回错误？</b></summary>
+<br>
+
+**可能原因**：
+
+1. **数据不存在**：
+   - 确认已运行过爬虫（有 output 目录数据）
+   - 检查查询日期范围是否有数据
+   - 查看 output 目录的可用日期
+
+2. **参数错误**：
+   - 检查日期格式：`YYYY-MM-DD`
+   - 确认平台 ID 正确：`zhihu`, `weibo` 等
+   - 查看工具文档中的参数说明
+
+3. **配置问题**：
+   - 确认 `config/config.yaml` 存在
+   - 确认 `config/frequency_words.txt` 存在
+   - 检查配置文件格式是否正确
+
+</details>
 
 ### 项目相关
 
@@ -1361,7 +2004,7 @@ Cherry Studio 提供 GUI 配置界面，可快速部署。
 
 
 <details>
-<summary><strong>👉 微信推送通知方案</strong></summary>
+<summary><strong>👉 点击展开：微信推送通知方案</strong></summary>
 <br>
 
 > 由于该方案是基于企业微信的插件机制，推送样式也十分不同，所以相关实现我暂时不准备纳入当前项目
